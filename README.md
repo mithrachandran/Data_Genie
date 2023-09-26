@@ -3,6 +3,7 @@ In this project, Power BI fetches the Monthly Sales Data for an organization "Da
 
 To start the project, open Outlook, the home tab, rules, and create rules.
 
+
 ![Image](https://github.com/users/mithrachandran/projects/1/assets/145925652/aba2678c-ffb9-4ae2-a439-e9e9a2e8b12b)
 *********************************************************
 Select subject contains tab
@@ -33,8 +34,8 @@ On the search tab (connector) type "exchange" then select Microsoft Exchange Onl
 
 A tab appears asking for the corporate email ID. Enter the corporate email address( only that will work), click ok
 Click Microsoft account sign in, click connect
+![image](https://github.com/mithrachandran/Data_Genie/assets/145925652/74913690-80a5-46ef-8085-a6fcec16380d)
 
-![Image](https://github.com/users/mithrachandran/projects/1/assets/145925652/7bb0ffca-216d-4bd3-bdcd-96f7aed53859)
  
 Now all the data inside Outlook is in Power BI. Here I require only mail. select Mail and transform data.
 
